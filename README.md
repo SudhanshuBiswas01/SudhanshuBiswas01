@@ -6,7 +6,7 @@
 
 # 💫 About Me:
 🎓 CS @ IU Germany + AI/ML @ IIT Gandhinagar — building at the intersection of both.<br>
-⚡ Hackathon winner · LightGBM · SHAP · full-stack ML pipelines<br>
+⚡ IITGN 2026 HackRush Hackathon winner · LightGBM · SHAP · full-stack ML pipelines<br>
 🔧 Currently turning RiskRadar (loan default predictor, AUC 0.7686) into a deployed product.<br>
 📸 When not training models, training at the gym or filming Reels.<br>
 🔗 SudhanshuBiswas01
