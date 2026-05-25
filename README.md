@@ -19,51 +19,94 @@
 
 # 🚀 Featured Projects:
 
-### 🏦 [RiskRadar](https://github.com/SudhanshuBiswas01/HackRush_Hackhon_IITGN)
-> **Winner of HackRush 2026 Hackathon, IIT Gandhinagar** 🏆
-*Retail Loan Default Prediction & Risk Analytics System*
-
-- **Core Impact:** Implemented a credit risk engine that processes **2.26 Million rows** of real LendingClub loan records (2007-2018) to predict Probability of Default (PD).
-- **Key Metrics & Insights:** 
-  - Achieved a final **AUC of 0.7686** using LightGBM.
-  - Engineered critical indicators (`income_to_loan_ratio`, `interest_burden`) ranking as **#6 top SHAP contributor**.
-  - Structured risk-tier classification with a **12x default rate difference** between Low and High risk tiers for streamlined lending decisions.
-- **Tech Stack:** `Python` • `LightGBM` • `SHAP` • `Scikit-Learn` • `Pandas` • `NumPy` • `Matplotlib` • `Seaborn`
-
----
-
-### ⚖️ [Justice AI (Layer AI)](https://github.com/SudhanshuBiswas01/Justice-AI)
-*AI-Powered Legal Assistance Platform for Consumer & Traffic Disputes in India*
-
-- **Core Impact:** Created a platform that resolves traffic challans and consumer complaints in India through deterministic category-specific workflows rather than generic chat.
-- **Key Features:**
-  - Automated ingestion parsing user statements and document uploads via **Tesseract OCR**.
-  - Built-in lightweight machine learning classifiers to direct query categories and flags.
-  - Context-aware RAG pipelines querying Indian legal acts, penal code sections, and fine tables to generate actionable compliance draft emails, legal notices, or grievance letters.
-- **Tech Stack:** `Next.js 16` • `React 19` • `Tailwind CSS 4` • `FastAPI` • `Tesseract OCR` • `LangChain` • `Vector Database (RAG)`
-
----
-
-### 🛡️ AdmitGuard
-*Intelligent Higher Education Candidate Compliance & Audit System*
-
-- **Core Impact:** Designed a strict rule-validation and audit tool to review and log candidate admission compliance metrics (DOB/age limits, academic scoring, Aadhaar checks).
-- **Key Features:**
-  - Dynamic exception bypass manager requiring detailed, keyword-validated rationales for soft-rule violations.
-  - Fully compliant audit trailing synced to local storage with automated CSV/JSON data export utilities.
-  - High-fidelity interface styled with modern glassmorphism and fluid Framer Motion transitions.
-- **Tech Stack:** `React 19` • `Vite` • `Tailwind CSS 4` • `Lucide React` • `Framer Motion (Motion)` • `TypeScript`
-
----
-
-### 🍬 Caramel AI
-*Interactive Conversational AI Teacher for Beginners*
-
-- **Core Impact:** Developed a playful and pedagogical AI teacher persona ("Caramel AI") explaining computer science and artificial intelligence topics to absolute beginners through step-by-step interactive dialogue.
-- **Key Features:**
-  - Formulated system prompts using analogies, simple concepts, and follow-up checkpoint questions.
-  - Deployed on a lightweight Gradio interface powered by the LangChain framework.
-- **Tech Stack:** `Python` • `LangChain` • `ChatGroq (Groq API)` • `Gradio` • `Dotenv`
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏦 RiskRadar</h3>
+      <p><strong>Retail loan default prediction</strong> and credit risk analytics system built in 36 hours for HackRush IIT Gandhinagar. 🏆</p>
+      <p>
+        <code>Python</code>&nbsp;
+        <code>LightGBM</code>&nbsp;
+        <code>SHAP</code>&nbsp;
+        <code>Pandas</code>&nbsp;
+        <code>Scikit-Learn</code>&nbsp;
+        <code>Streamlit</code>
+      </p>
+      <a href="https://github.com/SudhanshuBiswas01/HackRush_Hackhon_IITGN"><img src="https://img.shields.io/badge/VIEW_REPO-00C3FF?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" /></a>
+      <br/><br/>
+      <strong>Highlights</strong>
+      <ul>
+        <li>Trained on <strong>2.26 Million real loan records</strong> (2007-2018)</li>
+        <li>Achieved a final model classification <strong>AUC of 0.7686</strong></li>
+        <li>Engineered affordability feature (<code>income_to_loan_ratio</code>) that ranked #6 in SHAP importance</li>
+        <li>Structured credit tiers offering a <strong>12x default rate difference</strong> for decision actioning</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚖️ Justice AI (Layer AI)</h3>
+      <p><strong>AI-powered legal assistance platform</strong> for resolving small-scale consumer and traffic disputes in India.</p>
+      <p>
+        <code>FastAPI</code>&nbsp;
+        <code>Next.js</code>&nbsp;
+        <code>React</code>&nbsp;
+        <code>LangChain</code>&nbsp;
+        <code>Tesseract OCR</code>&nbsp;
+        <code>RAG</code>
+      </p>
+      <a href="https://github.com/SudhanshuBiswas01/Justice-AI"><img src="https://img.shields.io/badge/VIEW_REPO-7B2CBF?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" /></a>
+      <br/><br/>
+      <strong>Highlights</strong>
+      <ul>
+        <li>Replaced generic chat with deterministic, category-specific workflows</li>
+        <li>Integrated <strong>OCR text extraction</strong> for automated bill and challan parsing</li>
+        <li>Custom RAG querying Indian Motor Vehicles Act, Legal Metrology Act, and case rulings</li>
+        <li>Generated automated email complaints, grievance drafts, and formal notices</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛡️ AdmitGuard</h3>
+      <p><strong>Student enrollment compliance manager</strong> enforcing strict qualification and scoring policies.</p>
+      <p>
+        <code>React 19</code>&nbsp;
+        <code>Vite</code>&nbsp;
+        <code>TypeScript</code>&nbsp;
+        <code>Framer Motion</code>&nbsp;
+        <code>TailwindCSS</code>
+      </p>
+      <a href="https://github.com/SudhanshuBiswas01"><img src="https://img.shields.io/badge/VIEW_REPO-0072F0?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" /></a>
+      <br/><br/>
+      <strong>Highlights</strong>
+      <ul>
+        <li>Enforces multi-tier validation (strict blockers vs soft warnings)</li>
+        <li>Built-in exception manager requiring keyword-validated manager overrides</li>
+        <li>Full audit trailing with local storage sync and automated CSV/JSON exports</li>
+        <li>High-fidelity interface using modern layout and fluid transitions</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🍬 Caramel AI</h3>
+      <p><strong>Pedagogical AI teacher assistant</strong> explaining computer science and artificial intelligence topics to absolute beginners.</p>
+      <p>
+        <code>Python</code>&nbsp;
+        <code>LangChain</code>&nbsp;
+        <code>ChatGroq</code>&nbsp;
+        <code>Gradio</code>&nbsp;
+        <code>Dotenv</code>
+      </p>
+      <a href="https://github.com/SudhanshuBiswas01/Ai-chatbot"><img src="https://img.shields.io/badge/VIEW_REPO-00C3FF?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" /></a>
+      <br/><br/>
+      <strong>Highlights</strong>
+      <ul>
+        <li>Instructs beginners using conversational analogies suited for all ages</li>
+        <li>Engineered customized system prompts for interactive, step-by-step learning</li>
+        <li>Asks targeted checkpoint questions at the end of explanations to retain interest</li>
+        <li>Utilized LangChain and Groq API for rapid inference and response generation</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=sudhanshubiswas01&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
