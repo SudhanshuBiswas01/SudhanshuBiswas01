@@ -32,7 +32,7 @@
         <code>Scikit-Learn</code>&nbsp;
         <code>Streamlit</code>
       </p>
-      <a href="https://github.com/SudhanshuBiswas01/HackRush_Hackhon_IITGN"><img src="https://img.shields.io/badge/VIEW_REPO-00C3FF?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" /></a>
+      <a href="https://github.com/SudhanshuBiswas01/HackRush_Hackhon_IITGN"><img src="https://img.shields.io/badge/-%20VIEW%20REPO-00C3FF?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" /></a>
       <br/><br/>
       <strong>Highlights</strong>
       <ul>
@@ -53,7 +53,7 @@
         <code>Tesseract OCR</code>&nbsp;
         <code>RAG</code>
       </p>
-      <a href="https://github.com/SudhanshuBiswas01/Justice-AI"><img src="https://img.shields.io/badge/VIEW_REPO-7B2CBF?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" /></a>
+      <a href="https://github.com/SudhanshuBiswas01/Justice-AI"><img src="https://img.shields.io/badge/-%20VIEW%20REPO-7B2CBF?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" /></a>
       <br/><br/>
       <strong>Highlights</strong>
       <ul>
@@ -75,7 +75,7 @@
         <code>Framer Motion</code>&nbsp;
         <code>TailwindCSS</code>
       </p>
-      <a href="https://github.com/SudhanshuBiswas01"><img src="https://img.shields.io/badge/VIEW_REPO-0072F0?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" /></a>
+      <a href="https://github.com/SudhanshuBiswas01/AdmitGuard"><img src="https://img.shields.io/badge/-%20VIEW%20REPO-0072F0?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" /></a>
       <br/><br/>
       <strong>Highlights</strong>
       <ul>
@@ -95,7 +95,7 @@
         <code>Gradio</code>&nbsp;
         <code>Dotenv</code>
       </p>
-      <a href="https://github.com/SudhanshuBiswas01/Ai-chatbot"><img src="https://img.shields.io/badge/VIEW_REPO-00C3FF?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" /></a>
+      <a href="https://github.com/SudhanshuBiswas01/Ai-chatbot"><img src="https://img.shields.io/badge/-%20VIEW%20REPO-00C3FF?style=for-the-badge&logo=github&logoColor=white" alt="View Repo" /></a>
       <br/><br/>
       <strong>Highlights</strong>
       <ul>
