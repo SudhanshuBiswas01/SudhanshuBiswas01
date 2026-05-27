@@ -9,7 +9,7 @@
 ⚡ IITGN 2026 HackRush Hackathon winner · LightGBM · SHAP · full-stack ML pipelines<br>
 🔧 Currently turning RiskRadar (loan default predictor, AUC 0.7686) into a deployed product.<br>
 📸 When not training models, training at the gym or filming Reels.<br>
-🔗 SudhanshuBiswas01
+🔗 [@SudhanshuBiswas01](https://github.com/SudhanshuBiswas01)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sudhanshu._.op_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudhanshu-biswas-26b668268/) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sudhanshubiswas2003@gmail.com)
