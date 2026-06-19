@@ -32,7 +32,8 @@
 
 - 🎓 **CS @ IU Germany + AI/ML @ IIT Gandhinagar** — building at the intersection of both.
 - ⚡ **IITGN 2026 HackRush Hackathon winner** · LightGBM · SHAP · full-stack ML pipelines.
-- 🔧 Currently turning **RiskRadar** (loan default predictor, AUC 0.7686) into a deployed product.
+- 🔧 Currently turning **RiskRadar** (loan default predictor) into a deployed product.
+- 🤖 Building **Mech Sage** (agentic predictive-maintenance copilot) & **Justice AI** (AI-powered legal assistant).
 - 📸 When not training models, training at the gym or filming Reels.
 - 🔗 Reach me → [@SudhanshuBiswas01](https://github.com/SudhanshuBiswas01)
 
