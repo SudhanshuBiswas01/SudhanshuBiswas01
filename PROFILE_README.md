@@ -118,6 +118,7 @@
 <strong>Highlights</strong>
 <ul>
 <li>Replaced generic chat with deterministic, category-specific workflows</li>
+<li>Architected a <strong>4-Agent Deep Research System</strong> with Verifier QA grading and dynamic retries</li>
 <li>Integrated <strong>OCR text extraction</strong> for automated bill and challan parsing</li>
 <li>Custom RAG querying Indian Motor Vehicles Act, Legal Metrology Act, and case rulings</li>
 <li>Generated automated email complaints, grievance drafts, and formal notices</li>
